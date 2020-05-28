@@ -141,6 +141,9 @@ just for fun really:
 
 ***
 
-## The Web Scrapper
+## Setting Up SQL
+Mysql initial setup:
+https://pimylifeup.com/raspberry-pi-mysql/
 
-In the past I've only made a basic scrapper before. This one needs to focus on scraping, and it also needs to be able to crawl too.  
+Setting up remote connect:
+https://howtoraspberrypi.com/enable-mysql-remote-connection-raspberry-pi/
