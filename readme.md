@@ -147,3 +147,6 @@ https://pimylifeup.com/raspberry-pi-mysql/
 
 Setting up remote connect:
 https://howtoraspberrypi.com/enable-mysql-remote-connection-raspberry-pi/
+
+## some other notes
+Pyenv issues I had on ubuntu only, I ussed the repo to solve it: https://github.com/pyenv/pyenv
