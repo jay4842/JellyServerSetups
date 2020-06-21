@@ -148,5 +148,11 @@ https://pimylifeup.com/raspberry-pi-mysql/
 Setting up remote connect:
 https://howtoraspberrypi.com/enable-mysql-remote-connection-raspberry-pi/
 
+## updating the system time
+https://www.howtogeek.com/tips/how-to-sync-your-linux-server-time-with-network-time-servers-ntp/
+```
+sudo apt-get install ntp
+```
+
 ## some other notes
 Pyenv issues I had on ubuntu only, I ussed the repo to solve it: https://github.com/pyenv/pyenv
