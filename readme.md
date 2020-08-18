@@ -19,10 +19,11 @@ x1 case (optional but recommended)
 ## Node Info
 
 The ip's/hostname for each pi.  
-pi@192.168.0.18 # headNode  
+pi@192.168.0.10 # headNode  
 pi@192.168.0.26 # node2  
 pi@192.168.0.19 # node3  
 pi@192.168.0.20 # node4  
+pi@192.168.0.11 # node5
 
 note: I'm still learning how to these up more efficiently. Currently I am doing all of these manually for each pi.  
 ***
