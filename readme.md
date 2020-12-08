@@ -197,3 +197,9 @@ sudo apt-get install ntp
 
 ## some other notes
 Pyenv issues I had on ubuntu only, I ussed the repo to solve it: https://github.com/pyenv/pyenv
+
+## Mounting help
+- [Help mounting drives](https://www.techrepublic.com/article/how-to-properly-automount-a-drive-in-ubuntu-linux/)  
+- [Help mounting USBs](https://www.tutorialspoint.com/how-to-mount-usb-drive-in-a-linux-system)  
+
+
