@@ -29,7 +29,7 @@ note: I'm still learning how to these up more efficiently. Currently I am doing 
 ***
 
 ## Video I used to get started
-[youtube](https://www.youtube.com/watch?v=H2rTecSO0gk). 
+https://www.youtube.com/watch?v=H2rTecSO0gk
 
 ## Setting The Static IP
 
@@ -199,7 +199,7 @@ sudo apt-get install ntp
 ```
 
 ## installing ruby on a pi
-[link](https://www.anegron.site/2020/01/30/installing-rbenv-and-ruby-on-raspberry-pi/)
+https://www.anegron.site/2020/01/30/installing-rbenv-and-ruby-on-raspberry-pi/
 
 ## some other notes
 Pyenv issues I had on ubuntu only, I ussed the repo to solve it: https://github.com/pyenv/pyenv
