@@ -201,6 +201,13 @@ sudo apt-get install ntp
 ## installing ruby on a pi
 https://www.anegron.site/2020/01/30/installing-rbenv-and-ruby-on-raspberry-pi/
 
+### Running a rails app on a pi
+After installing everything you can't just use bin/rails s to run the server. you need to tell it to bind to the raspberry pi's ip address too. run instead with:  
+```
+bin/rails s -b ip.ip.ip.ip
+```
+This should do it!  
+
 ## some other notes
 Pyenv issues I had on ubuntu only, I ussed the repo to solve it: https://github.com/pyenv/pyenv
 
