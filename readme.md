@@ -28,6 +28,9 @@ pi@192.168.0.11 # node5
 note: I'm still learning how to these up more efficiently. Currently I am doing all of these manually for each pi.  
 ***
 
+## Video I used to get started
+[youtube](https://www.youtube.com/watch?v=H2rTecSO0gk). 
+
 ## Setting The Static IP
 
 Last time, I noticed that my pi's ip would change after so long. Here is how to make it static.  
