@@ -198,6 +198,9 @@ https://www.howtogeek.com/tips/how-to-sync-your-linux-server-time-with-network-t
 sudo apt-get install ntp
 ```
 
+## installing ruby on a pi
+[link](https://www.anegron.site/2020/01/30/installing-rbenv-and-ruby-on-raspberry-pi/)
+
 ## some other notes
 Pyenv issues I had on ubuntu only, I ussed the repo to solve it: https://github.com/pyenv/pyenv
 
