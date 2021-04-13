@@ -218,3 +218,6 @@ Pyenv issues I had on ubuntu only, I ussed the repo to solve it: https://github.
 ## Jenkins subdomain
 - [tutorial with cloudflare](https://truongtx.me/2020/01/02/set-up-jenkins-server-nginx-free-cloudflare-ssl)
 
+## settung up ssh-keys for ubuntu server
+- [tutorial from digital ocean](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04)
+- And please don't ever mess with the OpenSSH stuff too much, keep in minimal or you might mess it up again
