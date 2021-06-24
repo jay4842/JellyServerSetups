@@ -52,6 +52,8 @@ Example static IP configuration:
 ```
 
 and uncomment the info under it relating to the ip config. Also change the ip address to the address for the pi.  
+
+#### For Ubuntu Server: https://linuxize.com/post/how-to-configure-static-ip-address-on-ubuntu-20-04/
 ***
 
 ## Dependencies
