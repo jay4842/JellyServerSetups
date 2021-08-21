@@ -228,3 +228,9 @@ Pyenv issues I had on ubuntu only, I ussed the repo to solve it: https://github.
 
 ## settinh up a droplet
 - [getting started DO](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04)
+
+## Making a group and giving it access to a folder with correct access
+- sudo groupadd <group_name>
+- sudo usermod -a -G <group_name> <user_name>
+- sudo chgrp <group_name> <folder_path>
+- sudo chmod g+rwx <folder_path>
