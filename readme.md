@@ -234,3 +234,9 @@ Pyenv issues I had on ubuntu only, I ussed the repo to solve it: https://github.
 - sudo usermod -a -G <group_name> <user_name>
 - sudo chgrp <group_name> <folder_path>
 - sudo chmod g+rwx <folder_path>
+
+## ubuntu server stuff
+- after setting up mysql server: sudo apt-get install libmariadbclient-dev
+- setting up rcssmin reqs
+  - sudo apt install python3.8-dev
+  - Note depends on python version too
