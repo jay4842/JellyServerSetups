@@ -75,7 +75,7 @@ sudo apt install git-all
 
 install build tools needed:  
 ```
-sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python-openssl  
+sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python3-openssl  
 ```
 
 install pyenv:  
@@ -201,6 +201,9 @@ https://www.howtogeek.com/tips/how-to-sync-your-linux-server-time-with-network-t
 ```
 sudo apt-get install ntp
 ```
+
+## installing ruby on ubuntu
+https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-20-04
 
 ## installing ruby on a pi
 https://www.anegron.site/2020/01/30/installing-rbenv-and-ruby-on-raspberry-pi/
