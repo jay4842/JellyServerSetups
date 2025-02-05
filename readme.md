@@ -243,3 +243,6 @@ Pyenv issues I had on ubuntu only, I ussed the repo to solve it: https://github.
 - setting up rcssmin reqs
   - sudo apt install python3.8-dev
   - Note depends on python version too
+
+## Docker
+- https://docs.docker.com/engine/install/ubuntu/
