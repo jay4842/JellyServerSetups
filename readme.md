@@ -249,3 +249,5 @@ Pyenv issues I had on ubuntu only, I ussed the repo to solve it: https://github.
 
 ## Docker
 - https://docs.docker.com/engine/install/ubuntu/
+- https://docs.docker.com/engine/install/linux-postinstall/
+
