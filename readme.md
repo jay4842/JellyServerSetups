@@ -208,6 +208,9 @@ https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-wi
 ## installing ruby on a pi
 https://www.anegron.site/2020/01/30/installing-rbenv-and-ruby-on-raspberry-pi/
 
+### Ruby errors
+- https://stackoverflow.com/questions/3608287/error-installing-mysql2-failed-to-build-gem-native-extension
+
 ### Running a rails app on a pi
 After installing everything you can't just use bin/rails s to run the server. you need to tell it to bind to the raspberry pi's ip address too. run instead with:  
 ```
