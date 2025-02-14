@@ -211,6 +211,7 @@ https://www.anegron.site/2020/01/30/installing-rbenv-and-ruby-on-raspberry-pi/
 ### Ruby errors
 - https://stackoverflow.com/questions/3608287/error-installing-mysql2-failed-to-build-gem-native-extension
 - https://dev.to/mattiaorfano/macos-sonoma-libmysqlclient21dylib-no-such-file-not-in-dyld-cache-1ijg
+- https://stackoverflow.com/questions/78938322/mysql-authentication-plugin-issues-on-macos
 
 ### Running a rails app on a pi
 After installing everything you can't just use bin/rails s to run the server. you need to tell it to bind to the raspberry pi's ip address too. run instead with:  
